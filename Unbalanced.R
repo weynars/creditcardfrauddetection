@@ -7,7 +7,7 @@ library(ROSE) #for unbalanced data
 library(rpart) #decision tree algorithm
 
 #set path
-path <- "C:/Users/lucas/OneDrive/Lucas/Programming/R/Examples/Credit Card"
+path <- "C:/Users/Credit Card"
 setwd(path)# define the filename
 
 filename <- "creditcard.csv"
