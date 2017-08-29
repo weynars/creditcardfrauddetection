@@ -1,4 +1,4 @@
-# creditcardfrauddetection
+# Credit Card Fraud Detection
 
 Download the dataset at https://www.kaggle.com/dalpozz/creditcardfraud
 
